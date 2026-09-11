@@ -1,0 +1,26 @@
+# RD3N
+
+> Independent engineering studio by Nizam Yüksel. Product and venture development, industrial machine design, applied AI and GitHub-based company memory systems.
+
+RD3N (rd3n.com) is the studio of Nizam Yüksel: machine and test-system design, parametric CAD and production documentation, plus applied AI work — most actively a GitHub-based company memory system (RD3N Kit) that organises company knowledge, project history and decision records with human-reviewed AI workflows. Currently offered as a manual setup with consulting (pilot stage).
+
+## Main sections
+
+- [Work](https://rd3n.com/#work): visual studies and concept work, each image labelled as an AI-generated concept.
+- [Fields](https://rd3n.com/#fields): three connected fields — product & venture development, industrial design, applied AI & company memory.
+- [About](https://rd3n.com/#about): how Nizam works — learn, experiment, deliver something useful.
+- [Contact](https://rd3n.com/#contact): partner@rd3n.com, LinkedIn and GitHub (github.com/rd3n-ai).
+
+## Honest limits
+
+- Visuals on this site are AI-generated concept images, not delivered client work or manufactured machines.
+- No client case studies are published yet; project evidence will be added as real projects complete.
+- The RD3N Kit company-memory system is in pilot stage: manual setup and consulting only, not a self-service product.
+
+## Contact
+
+- Email: partner@rd3n.com
+- LinkedIn: https://www.linkedin.com/in/nizamyuksel/
+- WhatsApp: https://wa.me/905306701690
+- GitHub: https://github.com/rd3n-ai
+- Language: English primary, Turkish secondary (TR/EN toggle on site).
